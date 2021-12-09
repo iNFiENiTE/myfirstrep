@@ -3,7 +3,9 @@ git ls-files - show list of file in the directory
 git clone <url> - clone a repository
 
 git add <filename> - add file that will be commit
-git commit -m "<message/note about this version>" - save the current state of the repository
+git commit -m "message/note" - save the current state of the repository
+git commit -am "message/note" - save all changed file and message [shorthand for add and commit]
 
 git status - tell about git
+git push - push the changes to github
 # commit - savepoint
