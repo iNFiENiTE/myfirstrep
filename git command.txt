@@ -7,5 +7,6 @@ git commit -m "message/note" - save the current state of the repository
 git commit -am "message/note" - save all changed file and message [shorthand for add and commit]
 
 git status - tell about git
-git push - push the changes to github
+git push - push the local changes to github
+git pull - pull changes on github to local
 # commit - savepoint
