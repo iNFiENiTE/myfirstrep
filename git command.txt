@@ -9,4 +9,6 @@ git commit -am "message/note" - save all changed file and message [shorthand for
 git status - tell about git
 git push - push the local changes to github
 git pull - pull changes on github to local
+
+# merge conflict - problem when merging files
 # commit - savepoint
