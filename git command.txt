@@ -1,0 +1,9 @@
+cd "<path>" - change directory
+git ls-files - show list of file in the directory
+git clone <url> - clone a repository
+
+git add <filename> - add file that will be commit
+git commit -m "<message/note about this version>" - save the current state of the repository
+
+git status - tell about git
+# commit - savepoint
